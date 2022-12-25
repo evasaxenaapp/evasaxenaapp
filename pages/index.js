@@ -6,15 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Eva Saxena</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Eva Saxena! <3" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          Welcome to this test website for conducting nuxjs project.
+          </p>
       </main>
 
       <Footer />
